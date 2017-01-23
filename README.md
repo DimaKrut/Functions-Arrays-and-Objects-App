@@ -1,5 +1,5 @@
 ###Basic Project
-#Java Application
+#Functions Arrays and Objects Application
 
 * JDK 7
 * Java Application
